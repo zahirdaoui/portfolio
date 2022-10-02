@@ -1,0 +1,1 @@
+var spanDate = document.getElementById('yearsCopyRight');
